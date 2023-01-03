@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608125976109",
+    "project_id": "videocall-8ca07",
+    "storage_bucket": "videocall-8ca07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608125976109:android:e3bdc90387e6b1e43482a4",
+        "android_client_info": {
+          "package_name": "com.example.strangercall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608125976109-69rfkv7qnc9d6e6309mmj6f596qg3ta9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strangercall",
+            "certificate_hash": "498d86f088c70f76623806dcea4bb6789ea68955"
+          }
+        },
+        {
+          "client_id": "608125976109-2i3dep99ptals45jjgf9l4clkj008pdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj_stb9hUvYOuv6MiY_rzW0r4XE-0l4C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608125976109-2i3dep99ptals45jjgf9l4clkj008pdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
